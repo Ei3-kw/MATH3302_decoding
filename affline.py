@@ -26,4 +26,7 @@ if __name__ == '__main__':
 # ex:
 # cyphertext: OGHYLXEEQOGWNYJYGHYNKESOETHFYOGLOGHYLXEEPLEIQWYHEXEDYKESJELYDYLIELY
 # a=11, b=6
-# plain text: waterlooiwasdefeatedyouwonthewarwaterloopromisetoloveyouforevermore
+# plain text: 
+# waterloo i was defeated 
+# you won the war 
+# waterloo promise to love you forever more
